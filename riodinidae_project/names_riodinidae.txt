@@ -1,0 +1,464 @@
+Euselasia bilineata Lathy, 1926
+Euselasia arbas (Stoll, 1781)
+Euselasia artos (Herrich-Schäffer, [1853])
+Euselasia cafusa (H.W. Bates, 1868)
+Euselasia catoleuce (Hübner, 1823)
+Euselasia cuprea Lathy, 1926
+Euselasia euboea pasoula Callaghan& Lamas, 2004
+Euselasia eubotes (Hewitson, 1856)
+Euselasia eucritus (Hewitson,[1853])
+Euselasia eugeon (Hewitson, 1856)
+Euselasia eulione (Hewitson, 1856)
+Euselasia eumedia ophias (Herrich-Schäffer, [1853])
+Euselasia eumenes (Hewitson,[1853])
+Euselasia eunaeus (Hewitson,[1855])
+Euselasia euodias talidiman Brévignon & Gallard ,1992
+Euselasia euoras (Hewitson,[1855])
+Euselasia euphaes (Hewitson,[1855])
+Euselasia euriteus (Cramer, 1777)
+Euselasia euryone (Hewitson, 1856)
+Euselasia eurypus (Hewitson, 1856)
+Euselasia eustola wacapu Brévignon, 1996
+Euselasia eutaea lindana Möschler, 1883
+Euselasia eutychus (Hewitson, 1856)
+Euselasia fayneli Gallard, 2006
+Euselasia fournierae Lathy, 1924
+Euselasia gelanor (Stoll, 1780)
+Euselasia gelon (Stoll, 1787)
+Euselasia hygenius (Stoll, 1787)
+Euselasia ignitus Stichel, 1924
+Euselasia inini Brévignon, 1996
+Euselasia issoria (Hewitson, 1869)
+Euselasia kartopus Stichel, 1919
+Euselasia labdacus labdacus (Stoll, 1780)
+Euselasia lisias (Cramer, 1777)
+Euselasia manoa Brévignon, 1996
+Euselasia melaphaea melaphaea (Hübner, 1823)
+Euselasia midas erosina Brévignon, 1995
+Euselasia modesta (H.W. Bates, 1868)
+Euselasia mys mys (Herrich-Schäffer, [1853])
+Euselasia opalescens interrupta Lathy, 1924
+Euselasia opalina (Westwood, 1851)
+Euselasia orba orba Stichel, 1924
+Euselasia orfita orfita (Cramer, 1777)
+Euselasia pellonia Stichel, 1919
+Euselasia pellos pellos Stichel, 1919
+Euselasia pelor (Hewitson, 1853)
+Euselasia phedica (Boisduval, 1836)
+Euselasia phelina (H.Druce, 1878)
+Euselasia praecipua Stichel, 1924
+Euselasia rubrocilia Lathy, 1926
+Euselasia saulina Brévignon, 1996
+Euselasia scotinosa matouryensis Brévignon & Gallard ,1993
+Euselasia teleclus (Stoll, 1787)
+Euselasia thusnelda Möschler, 1883
+Euselasia uria uria (Hewitson,[1853])
+Euselasia urites eglawahe Brévignon & Gallard ,1993
+Euselasia utica (Hewitson [1855])
+Euselasia uzita (Hewitson,[1853])
+Euselasia venezolana psammathe Seitz, 1916
+Euselasia violetta (H.W. Bates, 1868)
+Euselasia waponaka Brévignon, 2011
+Euselasia zena hermieri Brévignon, 1996
+Methone cecilia cecilia (Cramer, 1777)
+Alesa amesis (Cramer, 1777)
+Alesa prema (Godart, [1824])
+Alesa rothschildi (Seitz, 1913)
+Alesa telephae (Boisduval, 1836)
+Eurybia cyclopia montsineryensis Brévignon, 1997
+Eurybia dardus dardus (Fabricius, 1787)
+Eurybia franciscana C.Felder& R.Felder, 1862
+Eurybia halimede halimede (Hübner, [1807])
+Eurybia nicaeus nicaeus (Fabricius, 1775)
+Anteros acheus acheus (Stoll, 1781)
+Anteros allectus Westwood, 1851
+Anteros aurigans Gallard & Brévignon, 1989
+Anteros bracteata Hewitson, 1867
+Anteros chrysoprasta Hewitson, 1867
+Anteros formosus formosus (Cramer, 1777)
+Anteros renaldus renaldus (Stoll, 1790)
+Helicopis cupido cupido (Linnaeus, 1758)
+Helicopis endymiaena endymiaena (Hübner, [1819])
+Ourocnemis archytas (Stoll, 1787)
+Sarota acanthoides acanthoides (Herrich-Schäffer, [1853])
+Sarota acantus (Stoll, 1781)
+Sarota chrysus chrysus (Stoll, 1781)
+Sarota gyas (Cramer, 1775)
+Sarota lasciva flavicincta Brévignon & Gallard ,1998
+Sarota miranda Brévignon, 1998
+Sarota psaros psaros Godman & Salvin, 1886
+Argyrogrammana alstonii (Smart, 1979)
+Argyrogrammana chicomendesi Gallard, 1995
+Argyrogrammana denisi Gallard, 1995
+Argyrogrammana glaucopis virgata Brévignon & Gallard ,1995
+Argyrogrammana iracy saulensis Gallard 2008
+Argyrogrammana johannismarci Brévignon, 1995
+Argyrogrammana nurtia ludibunda Brévignon & Gallard ,1995
+Argyrogrammana occidentalis (Godman & Salvin, 1886)
+Argyrogrammana physis physis (Stichel, 1911)
+Argyrogrammana placibilis (Stichel, 1910)
+Argyrogrammana praestigiosa (Stichel, 1929)
+Argyrogrammana rameli (Stichel, 1930)
+Argyrogrammana sebastiani Brévignon, 1995
+Argyrogrammana sticheli (Talbot, 1929)
+Argyrogrammana stilbe stilbe (Godart, [1824])
+Argyrogrammana sublimis Brévignon & Gallard ,1995
+Argyrogrammana trochilia (Westwood, 1851)
+Argyrogrammana venilia (H.W. Bates, 1868)
+Callistium cleadas (Hewitson, 1866)
+Callistium maculosa (H.W. Bates, 1868)
+Calydna stolata Brévignon, 1998
+Calydna cabira belemia Brévignon & Gallard ,1998
+Calydna caieta similis Brévignon, 1998
+Calydna calamisa Hewitson, 1854
+Calydna candace Hewitson, 1859
+Calydna carneia Hewitson, 1859
+Calydna charila Hewitson, 1854
+Calydna micra H.W. Bates, 1868
+Calydna thersander (Stoll, 1780)
+Comphotis clarissa (Sharpe, 1890)
+Comphotis eanes (Godman, 1903)
+Comphotis exigua Stichel, 1910
+Comphotis irroratum (Godman, 1903)
+Comphotis pactolus (Möschler, 1877)
+Comphotis sophistes (H.W. Bates, 1868)
+Echenais telephus telephus (Cramer, 1775)
+Emesis aerigera (Stichel 1910)
+Emesis castigata diringeri Gallard 2008
+Emesis cerea (Linnaeus, 1767)
+Emesis fatimella Westwood, 1851
+Emesis lucinda lucinda (Cramer, 1775)
+Emesis mandana (Cramer, 1780)
+Emesis neemias Hewitson, 1872
+Emesis spreta H.W. Bates, 1868
+Emesis tegula Godman & Salvin, 1886
+Pachythone conspersa Stichel, 1926
+Pachytone lateritia lateritia H.W. Bates, 1868
+Pachytone sp (proche de pasicles)
+Pachythone xanthe H.W. Bates, 1868
+Roeberella flocculus Brévignon & Gallard ,1993
+Roeberella sp (proche de lencates)
+Cremna actoris (Cramer, 1776)
+Cremna heteroea H.W. Bates, 1876
+Cremna thasus thasus (Stoll, 1780)
+Hyphilaria nicia Hübner, [1819]
+Hyphilaria parthenis (Westwood, 1851)
+Ithomiola floralis C. Felder& R. Felder, 1865
+Napaea beltania beltania (H.W. Bates, 1867)
+Napaea eucharila eucharila (H.W. Bates, 1867)
+Napaea gynaecomorpha Hall, Harvey & Gallard, 2005
+Napaea orpheus (Westwood, 1851)
+Napaea sylva (Möschler, 1877)
+Eunogyra curupira H.W. Bates, 1868
+Leucochimona hyphea hyphea (Cramer, 1776)
+Leucochimona hyphea pallida (Lathy, 1932)
+Leucochimona icare icare (Hübner, [1819])
+Leucochimona lagora (Herrich-Schäffer, [1853])
+Mesophthalma mirita (Herrich-Schäffer, [1853])
+Mesosemia antaerice Hewitson, 1859
+Mesosemia cippus Hewitson, 1859
+Mesosemia cyanira ackeryi Brevignon, 1994
+Mesosemia decolorata Lathy, 1932
+Mesosemia epidius Hewitson, 1859
+Mesosemia esmeralda Gallard & Brévignon,1989
+Mesosemia eugenea eugenea Stichel, 1910
+Mesosemia eumene eumene (Cramer, 1776)
+Mesosemia eurythmia Stichel, 1915
+Mesosemia evias Stichel, 1923
+Mesosemia gneris Westwood, 1851
+Mesosemia ibycus Hewitson, 1859
+Mesosemia inconspicua Lathy, 1932
+Mesosemia judicialis Butler, 1874
+Mesosemia lacernata Stichel, 1909
+Mesosemia lycorias Stichel, 1915
+Mesosemia macella Hewitson, 1859
+Mesosemia magete bersabana Stichel, 1910
+Mesosemia melaene Hewitson, 1859
+Mesosemia melese Hewitson, 1860
+Mesosemia meneotes pulverulenta Brévignon, 1997
+Mesosemia messeis itoupensis Gallard & Fernandez, 2012
+Mesosemia metope metope Hewitson, 1859
+Mesosemia metura (Hewitson, 1866)
+Mesosemia minos modica Stichel, 1910
+Mesosemia minutula Gallard, 1996
+Mesosemia misipsa Hewitson, 1859
+Mesosemia naiadella oreas Stichel, 1915
+Mesosemia nyctea (Hoffmannsegg, 1818)
+Mesosemia nympharena Stichel, 1909
+Mesosemia orbona caballina Brévignon, 1997
+Mesosemia philocles philocles (Linnaeus, 1758)
+Mesosemia scotina Stichel, 1909
+Mesosemia steli Hewitson, 1858
+Mesosemia teulem Brévignon, 1995
+Mesosemia thymetus thymetus (Cramer, 1777)
+Mesosemia ulrica ulrica (Cramer, 1777)
+Mesosemia ungulata Stichel, 1915
+Mesosemia walteri Brévignon, 1998
+Perophthalma tullius tullius (Fabricius, 1787)
+Semomesia alyattes ceciliae Gallard, 1996
+Semomesia capanea capanea (Cramer, 1779)
+Semomesia croesus croesus (Fabricius, 1776)
+Semomesia nesti (Hewitson, 1858)
+Semomesia tenella optima Stichel, 1915
+Aricoris epulus (Cramer, 1775)
+Adelotypa annulifera (Godman, 1903)
+Adelotypa borsippa (Hewitson, 1863)
+Adelotypa eudocia (Godman & Salvin, 1897)
+Adelotypa penthea penthea (Cramer, 1777)
+Adelotypa tinea (H.W. Bates, 1868)
+Calospila antonii Brévignon, 1995
+Calospila apotheta (H.W. Bates, 1868)
+Calospila emylius emylius (Cramer, 1775)
+Calospila gallardi Brévignon, 1995
+Calospila gyges tavakiliani Brévignon & Gallard ,1995
+Calospila hemileuca (H.W. Bates, 1868)
+Calospila lucetia (Hübner,1821)
+Calospila lucianus lucianus (Fabricius, 1793)
+Calospila maeonoides (Godman, 1903)
+Calospila parthaon (Dalman, 1823)
+Calospila parthaon tauensis
+Calospila rhesa (Hewitson, 1858)
+Calospila rhodope wayanai Brévignon, 1993
+Calospila subtilis Brévignon, 2012
+Calospila temperans Brévignon, 2012
+Calospila thara nomia (Godman, 1903)
+Calospila urichi (S.J. May, 1972)
+Calospila wia (Brevignon & Gallard, 1992)
+Calospila zeanger (Stoll, 1790)
+Dysmathia cindra acuta Brévignon & Gallard ,1999
+Dysmathia costalis gwiyanensis Brévignon, 1999
+Dysmathia glaucina Stichel, 1928
+Dysmathia portia H.W. Bates, 1868
+Livendula aminias florosa Brévignon, 2012
+Livendula aristus aristus (Stoll, 1790)
+Livendula balista augustalis Brévignon, 1993
+Livendula brunescens Brévignon, 2012
+Livendula huebneri sordida (Butler, 1877)
+Livendula jasonhalli Brévignon & Gallard ,1999
+Livendula leucocyana (Geyer, 1837)
+Livendula leucophaea (Hübner, [1821])
+Menander beraka Brévignon, 1999
+Menander cicuta (Hewitson, 1863)
+Menander clotho (Stichel, 1911)
+Menander coruscans exsultans Brévignon, 1999
+Menander hebrus hebrus (Cramer, 1775)
+Menander menander menander (Stoll, 1780)
+Menander pretus pretus (Cramer, 1777)
+Menander thalassicus Brévignon & Gallard ,1992
+Nymphidium acherois acherois (Boisduval, 1836)
+Nymphidium aurum Callaghan, 1985
+Nymphidium azanoides amazonensis Callaghan, 1986
+Nymphidium baeotia Hewitson, [1853]
+Nymphidium cachrus (Fabricius, 1787)
+Nymphidium callaghani Brévignon, 1999
+Nymphidium caricae caricae (Linnaeus, 1758)
+Nymphidium colleti Gallard, 2008
+Nymphidium derufata Callaghan, 1985
+Nymphidium fulminans fulminans H.W. Bates, 1868
+Nymphidium guyanensis Gallard & Brévignon, 1989
+Nymphidium hermieri Gallard, 2008
+Nymphidium latibrunis Callaghan, 1985
+Nymphidium lisimon lisimon (Stoll, 1790)
+Nymphidium manicorensis caoensis Brévignon, 1999
+Nymphidium mantus (Cramer, 1775)
+Nymphidium menalcus menalcus (Stoll, 1782)
+Nymphidium minuta Druce, 1904
+Nymphidium olinda H.W. Bates, 1865
+Nymphidium omois Hewitson, 1865
+Pandemos pasiphae (Cramer, 1775)
+Periplacis glaucoma splendida (Butler, 1867)
+Rodinia calphurnia ariana Brévignon & Gallard, 1999
+Setabis epitus epitus (Cramer, 1780)
+Setabis lagus lagus (Cramer, 1777)
+Setabis myrtis myrtis (Westwood, 1851)
+Zelotaea alba Gallard & Brévignon, 1989
+Zelotaea phasma dubia H.W. Bates, 1868
+Zelotaea suffusca Brévignon & Gallard, 1993
+Juditha azan majorina Brévignon & Gallard ,1998
+Juditha molpe (Hübner, [1808])
+Juditha odites odites (Cramer, 1775)
+Lemonias egaensis reducta Brévignon, 1998
+Lemonias zygia zygia Hübner, [1807]
+Synargis abaris (Cramer, 1776)
+Synargis agle menalcidas (Seitz, 1913)
+Synargis calyce calyce (C. Felder& R. Felder, 1862)
+Synargis chaonia (Hewitson, [1853])
+Synargis fenestrella (Lathy, 1932)
+Synargis galena (H.W. Bates, 1868)
+Synargis gela gela (Hewitson, [1853])
+Synargis ochra (H.W. Bates, 1868)
+Synargis orestessa Hübner, [1819]
+Synargis phliasus (Clerck, 1764)
+Synargis pittheus (Hoffmannsegg, 1818)
+Synargis regulus (Fabricius, 1793)
+Synargis soranus (Stoll, 1781)
+Synargis tytia (Cramer, 1777)
+Synargis victrix (Rebel, 1901)
+Thisbe hyalina (Butler, 1867)
+Thisbe irenea irenea (Stoll, 1780)
+Thisbe molela Hewitson, 1865
+Archaeonympha drepana (H.W. Bates, 1868)
+Archaeonympha urichi (Vane-Wright, 1994)
+Theope amicitiae J.Hall,Gallard & Brévignon, 1998
+Theope archimedes (Fabricius, 1793)
+Theope aureonitens H.W. Bates, 1868
+Theope barea Godman &Salvin, 1878
+Theope batesi J.Hall, 1998
+Theope brevignoni (Gallard, 1996)
+Theope caroli Brévignon, 2011
+Theope christophi rorota Brévignon, 2011
+Theope discus H.W. Bates, 1868
+Theope ebara Brévignon, 2011
+Theope ernestinae Brévignon, 2011
+Theope eudocia eudocia Westwood, 1851
+Theope eurygonina H.W. Bates, 1868
+Theope excelsa H.W. Bates, 1868
+Theope fayneli Gallard, 2002
+Theope fernandezi Brévignon, 2011
+Theope foliolum Brévignon, 2011
+Theope foliorum H.W. Bates, 1868
+Theope francisi Brévignon, 2011
+Theope galionicus Gallard & Brévignon, 1989
+Theope guillaumei guillaumei Gallard, 1996
+Theope janus H.W. Bates, 1867
+Theope johannispetreus Brévignon, 2011
+Theope lampropteryx H.W. Bates, 1868
+Theope leucanthe H.W. Bates, 1868
+Theope lycaenina H.W. Bates, 1868
+Theope lychyi Brévignon, 2011
+Theope martinae Brévignon, 2011
+Theope minialba Gallard, 2006
+Theope mundula Stichel, 1926
+Theope nobilis H.W. Bates, 1868
+Theope nycteis (Westwood, 1851)
+Theope orphana (Stichel, 1911)
+Theope palambala Gallard, 2009
+Theope pedias Herrich-Schäffer, [1853]
+Theope phaeo Prittwitz, 1865
+Theope philotes (Westwood, 1851)
+Theope pieridoides C. Felder& R. Felder, 1865
+Theope rochambellus Brévignon, 2011
+Theope sericea H.W. Bates, 1868
+Theope shafir Brévignon, 2009
+Theope sobrina H.W. Bates, 1868
+Theope sticheli J.Hall, 1998
+Theope syngenes H.W. Bates, 1868
+Theope terambus (Godart, [1824])
+Theope tetrastigmoides, Hall, 2008
+Theope thootes Hewitson, 1860
+Theope virgilius (Fabricius, 1793)
+Theope wallacei J.Hall, 1998
+Theope zafaran Brévignon, 2011
+Amarynthis meneria micalia (Cramer, 1776)
+Ancyluris aristodorus (Morisse, 1838)
+Ancyluris aulestes aulestes (Cramer, 1777)
+Ancyluris colubra (Saunders, 1859)
+Ancyluris etias gracilis Stichel, 1910
+Ancyluris meliboeus meliboeus (Fabricius, 1776)
+Ancyluris tedea (Cramer, 1777)
+Baeotis capreolus robini Brévignon, 1995
+Baeotis euprepes obscurior Brévignon, 1998
+Baeotis hisbon (Cramer, 1775)
+Baeotis prima nigricans Brévignon, 1998
+Caria castalia castalia (Ménétriés, 1855)
+Caria trochilus trochilus Erichson,[1849]
+Cariomothis chia (Hübner, 1823)
+Cariomothis erythromelas erythromelas (Sepp, [1841])
+Chalodeta chaonitis (Hewitson, 1866)
+Chalodeta chlosine J.Hall, 2002
+Chalodeta lypera H.W. Bates, 1868
+Chamaelimnas briola briola H.W. Bates, 1868
+Charis anius (Cramer, 1776)
+Chorinea amazon antoniana Brévignon, 1998
+Chorinea batesii regina Brévignon, 1998
+Chorinea octavius octavius (Fabricius, 1787)
+Colaciticus johnstoni (Dannatt, 1904)
+Cyrenia martia martia Westwood, 1851
+Dachetola caligata (Stichel, 1911)
+Dachetola pione H.W. Bates, 1868
+Detritivora argyrea (H.W. Bates, 1868)
+Detritivora cleonus (Stoll, 1781)
+Detritivora gallardi (J.Hall & Harvey, 2001)
+Detritivora rocana (J.Hall & Harvey, 2002)
+Detritivora smalli (J.Hall & Harvey, 2001)
+Isapis agyrtus agyrtus (Cramer, 1777)
+Ithomeis aurantiaca bernardi Brévignon, 1998
+Lasaia agesilas agesilas (Latreille, [1809])
+Lasaia lalannei Gallard, 2008
+Lasaia meris (Stoll, 1781)
+Lasaia oileus Godman, 1903
+Lyropteryx apollonia apollonia Westwood, 1851
+Lyropteryx diadocis Stichel, 1910
+Melanis aegates melliplaga (Hewitson, 1874)
+Melanis electron pronostriga (Stichel, 1910)
+Melanis smithiae xarifa (Hewitson, [1853])
+Metacharis lucius (Fabricius, 1793)
+Monethe albertus albertus C. Felder& R. Felder, 1862
+Notheme erota erota (Cramer, 1780)
+Panara phereclus (Linnaeus, 1758)
+Parcella amarynthina (C. Felder& R. Felder, 1865)
+Pheles atricolor malmanoury (Brévignon, 1998)
+Pheles heliconides heliconides Herrich-Schäffer, [1853]
+Rhetus arcius arcius (Linnaeus, 1763)
+Rhetus periander periander (Cramer, 1777)
+Riodina lysippus lysippus (Linnaeus, 1758)
+Syrmatia nyx (Hübner, [1817])
+Themone inornata Lathy, 1958
+Themone pais eutacta Stichel, 1910
+Themone poecila H.W. Bates, 1868
+Themone pulcherrima Herrich-Schäffer, [1853]
+Stalachtis calliope calliope (Linnaeus, 1758)
+Stalachtis euterpe euterpe (Linnaeus, 1758)
+Stalachtis phaedusa zephyritis (Dalman, 1823)
+Stalachtis phlegia phlegia (Cramer, 1779)
+Stalachtis terpsichore Seitz, 1917
+Chimastrum celina aeolia (H.W. Bates, 1868)
+Esthemopsis colaxes guianensis (A.Hall, 1939)
+Esthemopsis crystallina Brévignon & Gallard ,1992
+Esthemopsis sp
+Esthemopsis sericina (H.W. Bates, 1867)
+Mesene epaphus epaphus (Stoll, 1780)
+Mesene eupteryx H.W. Bates, 1868
+Mesene nola nola Herrich-Schäffer, [1853]
+Mesene paraena H.W. Bates, 1868
+Mesene bigemmis Stichel ,1925
+Mesene phareus (Cramer, 1777)
+Mesene silaris Godman & Salvin, 1878
+Mesene simplex H.W. Bates, 1868
+Mesene veleda veleda Stichel, 1923
+Panaropsis semiota (H.W. Bates, 1868)
+Panaropsis thyatira (Hewitson, [1853])
+Phaenochitonia cingulus (Stoll, 1790)
+Pirascca arbuscula arbuscula (Möschler, 1883)
+Pirascca crocostigma (H.W. Bates, 1868)
+Pirascca histrica (Stichel, 1910)
+Pirascca interrupta (Lathy, 1932)
+Pirascca mimica Gallard & Fernandez, 2012
+Pirascca sagaris sagaris (Cramer, 1775)
+Pirascca sticheli kawensis Brévignon, 1998
+Pirascca tyriotes (Godman & Salvin, 1878)
+Symmachia accusatrix Westwood, 1851
+Symmachia basilissa brevignoni (H.W. Bates, 1868)
+Symmachia calligrapha Hewitson,1867
+Symmachia calliste Hewitson,1867
+Symmachia emeralda Hall & Harvey, 2002
+Symmachia estellina Gallard, 2008
+Symmachia falcistriga meyi Brévignon, 1998
+Symmachia hippea Herrich-Schäffer, [1853]
+Symmachia juratrix Westwood, 1851
+Symmachia leena harveyi Brévignon, 1998
+Symmachia leopardinum (C. Felder& R. Felder, 1865)
+Symmachia miron puchellita Brévignon & Gallard ,1992
+Symmachia multesima Stichel, 1910
+Symmachia norina Hewitson,1867
+Symmachia pardalis Hewitson,1867
+Symmachia poirieri Gallard, 2009
+Symmachia probetor probetor (Stoll, 1782)
+Symmachia rosanti Gallard, 2008
+Symmachia stigmosissima eddyi Gallard, 2008
+Symmachia technema Stichel, 1910
+Symmachia threissa seducta Brévignon, 1993
+Symmachia tigrina Hewitson,1867
+Symmachia tricolor Hewitson,1867
+Symmachia virgatula urichi Kaye, 1925
+Xenandra helius helius (Cramer, 1779)
